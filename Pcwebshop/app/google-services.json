@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "498032097276",
+    "project_id": "pcwebshop-ydwvv3",
+    "storage_bucket": "pcwebshop-ydwvv3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498032097276:android:3c95ecc18bea9220ee2479",
+        "android_client_info": {
+          "package_name": "com.example.pcwebshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_kO8XEK4u8ofqg0SMEELtYRvlUOvIVvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
